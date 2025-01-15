@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.1 registry.cn-hangzhou.aliyuncs.com/ztp-de-docker/langgenius/dify-api:0.15.1
+nginx:alpine/dify-api:0.15.1 registry.cn-hangzhou.aliyuncs.com/ztp-de-docker/nginx:alpine/dify-api:0.15.1
