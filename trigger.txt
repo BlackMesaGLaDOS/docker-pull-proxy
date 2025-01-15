@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.1 registry.cn-hangzhou.aliyuncs.com/ztp-de-docker/langgenius/dify-api:0.15.1
+langgenius/dify-api:0.15.1 crpi-hopei1drs3a3fb1r.cn-shanghai.personal.cr.aliyuncs.com/dify-api:0.15.1
