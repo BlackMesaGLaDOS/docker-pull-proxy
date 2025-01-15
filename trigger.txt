@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.1 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/langgenius/dify-api:0.15.1
+langgenius/dify-api:0.15.1 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/dify-api:0.15.1
