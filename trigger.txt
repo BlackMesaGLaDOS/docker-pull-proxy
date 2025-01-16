@@ -1,2 +1,3 @@
-redis:6-alpine crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/redis:6-alpine
-langgenius/dify-sandbox:0.2.10 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/dify-sandbox:0.2.10
+ubuntu/squid:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/squid:latest
+certbot/certbot crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/certbot
+nginx:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/nginx:latest
