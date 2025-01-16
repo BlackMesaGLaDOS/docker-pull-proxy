@@ -1,17 +1,2 @@
-pingcap/tidb:v8.4.0 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/tidb:v8.4.0
-semitechnologies/weaviate:1.19.0 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/weaviate:1.19.0
-langgenius/qdrant:v1.7.3 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/qdrant:v1.7.3
-pgvector/pgvector:pg16 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/pgvector:pg16
-tensorchord/pgvecto-rs:pg16-v0.3.0 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/pgvecto-rs:pg16-v0.3.0
-ghcr.io/chroma-core/chroma:0.5.20 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/chroma:0.5.20
-quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/oceanbase-ce:4.3.3.0-100000142024101215
-container-registry.oracle.com/database/free:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/free:latest
-quay.io/coreos/etcd:v3.5.5 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.5.0-beta crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/milvus:v2.5.0-beta
-opensearchproject/opensearch:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/opensearch:latest
-opensearchproject/opensearch-dashboards:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/opensearch-dashboards:latest
 myscale/myscaledb:1.6.4 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/unstructured-api:latest
