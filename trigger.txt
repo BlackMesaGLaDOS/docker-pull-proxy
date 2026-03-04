@@ -1,2 +1,1 @@
-myscale/myscaledb:1.6.4 crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/myscaledb:1.6.4
-downloads.unstructured.io/unstructured-io/unstructured-api:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/unstructured-api:latest
+gcr.io/cadvisor/cadvisor:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/cadvisor:latest
