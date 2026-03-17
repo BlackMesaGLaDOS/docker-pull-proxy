@@ -1,1 +1,1 @@
-docker.io/nacos-mcp-router:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/nacos-mcp-router:latest
+nacos-mcp-router:latest crpi-pzuw4bsy6iej0nbw.cn-hangzhou.personal.cr.aliyuncs.com/ztp-de-docker/nacos-mcp-router:latest
